@@ -6,7 +6,7 @@ Installation
 1. Install using pip:
 
    `` pip install django-bootstrap3``
-   `` pip install django-bootstrap3-iconfield.git``
+   `` pip install django-bootstrap3-iconfield``
 
    Alternatively, you can install download or clone this repo and call ``pip install -e .``.
 
